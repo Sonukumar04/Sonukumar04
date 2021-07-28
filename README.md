@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sonukumar04
 - 👀 I’m interested in Web development.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning javascript and SQL.
 - 💞️ I’m looking for job.
 - 📫 How to reach me sonu.r.k31@gmail.com
 
